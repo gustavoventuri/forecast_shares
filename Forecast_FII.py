@@ -5,7 +5,10 @@ running with Spider(Python 3.7)
 
 @author: gustavo venturi
 
-
+DISCLAIMER:
+    THIS IS NOT A RECOMENDATION TO BUY OU SELL SHARES.
+    YOU MUST DO YOUR OWN VERIFICATION BEFORE BUY OR SELL, IT'S UP TO YOU!
+    
 
 description: forecast with sklearn to shares from IBOVESPA.
 
